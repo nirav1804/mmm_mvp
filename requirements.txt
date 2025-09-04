@@ -3,4 +3,3 @@ pandas
 plotly
 scikit-learn
 openpyxl
-meridien    # include only if you can install it; otherwise remove
